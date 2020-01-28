@@ -1,0 +1,95 @@
+body{
+	background-color: #ccccb3;
+}
+#i{
+
+	 width: 80%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  font-size: 24px;
+  background-color: white;
+  /*background-image: url('searchicon.png');*/
+/*  background-position: 10px 10px; */
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  margin-left: 10%;
+}
+#if{
+		height:400px;
+
+	width:70%;
+	 margin-left: 5%;
+	 float:left;
+}
+#heading
+{
+	background-color:  #ff0000;
+	height:65px;
+	width:300px;
+	font-size: 50px;
+}
+
+#btimg{
+	height:40px;
+
+	width:40px;
+
+}
+#d1,#d2,#d3{
+	/*border:1px solid black;*/
+	margin-left: 5%;
+	margin-top: 2%;
+	font-size: 30px;
+	font-family:  Calibri;
+	width: 20%;
+	float:left;
+	font-color:white;
+
+}
+#d,#dd{
+	margin-left: 2%;
+	margin-top: 4%;
+	float:left;
+		/*border:1px solid black;*/
+width: 22%;
+font-size: 40px;	background-color: #333;
+	color:white;
+		font-family:  Calibri;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+    font-size: 20px;
+
+
+}
+
+li a:hover {
+  background-color: #111;
+}
+.hd
+{
+	float:left;
+	color:white;
+	  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
